@@ -1,6 +1,8 @@
+# MULTIPAR
 MULTIPAR: Supervised Irregular Tensor Factorization Framework with Multi-task Learning
 
-Before running the codes you need to install tensorflow https://www.tensorflow.org and pytorch https://pytorch.org/get-started/locally/ to run the code. you will also need to unzip the data file "extract3000.p".
+Before running the codes you need to install tensorflow https://www.tensorflow.org and pytorch https://pytorch.org/get-started/locally/ to run the code. 
+you will also need to unzip the data file "extract3000.p".
 
 Here is the lists of MULTIPAR files:
 
